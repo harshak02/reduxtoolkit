@@ -1,0 +1,1 @@
+State Management is possible by using the Redux
